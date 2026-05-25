@@ -74,7 +74,7 @@ The following external services are expected to connect to this infrastructure s
 ## Prerequisites
 * Docker Desktop
 * Docker Compose
-* Java 26+
+* Java 25+
 * IntelliJ IDEA (recommended)
 
 ## Environment Setup
